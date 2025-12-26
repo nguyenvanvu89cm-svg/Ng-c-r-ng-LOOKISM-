@@ -14,4 +14,3 @@ pkg install openjdk-17 wget -y
 
 echo ""
 echo "Cài đặt thành công! Chúc các bạn chơi game vui vẻ."
-
