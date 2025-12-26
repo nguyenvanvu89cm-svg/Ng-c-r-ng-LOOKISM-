@@ -1,0 +1,16 @@
+#!/bin/bash
+# Tác giả: nguyenvanvu89cm
+
+clear
+echo "==============================================="
+echo "   ĐANG CÀI ĐẶT DRAGONBOY BY VŨ "
+echo "==============================================="
+
+# Cài đặt môi trường
+pkg install openjdk-17 wget -y
+
+# Tải file game (Bạn hãy thay link file game của bạn vào đây)
+# wget -O DragonBoy.jar https://link-cua-ban.com/game.jar
+
+echo ""
+echo "Cài đặt thành công! Chúc bạn chơi game vui vẻ."
