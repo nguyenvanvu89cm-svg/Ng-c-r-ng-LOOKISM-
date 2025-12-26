@@ -9,8 +9,9 @@ echo "==============================================="
 # Cài đặt môi trường
 pkg install openjdk-17 wget -y
 
-# Tải file game (Bạn hãy thay link file game của bạn vào đây)
+# Tải file game
 # wget -O DragonBoy.jar https://link-cua-ban.com/game.jar
 
 echo ""
-echo "Cài đặt thành công! Chúc bạn chơi game vui vẻ."
+echo "Cài đặt thành công! Chúc các bạn chơi game vui vẻ."
+
